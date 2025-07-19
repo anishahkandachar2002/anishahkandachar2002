@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Anisha H Kandachar 👋</h1>
 <p align="center">
-  <em>M.Tech CSE | Full Stack Developer | Hackathon Winner | Tech Speaker</em>
+  <em>M.Tech CSE | Full Stack Developer | Smart India Hackathon Winner | Tech Speaker</em>
 </p>
 
 ---
